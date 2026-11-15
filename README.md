@@ -14,7 +14,7 @@ Ich bin Fabian Schafer, Gründer von **DER ALPHA-CODE**.
 
 Der Alpha-Code steht für persönliche Entwicklung, Selbstführung, Disziplin und den Mut, eigene Grenzen zu hinterfragen.
 
-Es geht nicht darum, perfekt zu sein.
+Es geht nicht darum, perfekt zu sein.  
 Es geht darum, Verantwortung zu übernehmen und seinen eigenen Weg zu gehen.
 
 ---
