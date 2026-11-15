@@ -1,4 +1,4 @@
-<div align="center">
+![DER ALPHA-CODE – Die Zeit, Grenzen zu durchbrechen](https://raw.githubusercontent.com/alphacode-fabian/alphacode-fabian/main/alpha-mountain.jpg)
 
 # DER ALPHA-CODE
 
@@ -59,5 +59,3 @@ Ein Projekt, das wächst und Menschen dazu ermutigt, ihren eigenen Weg zu gehen.
 **DIE ZEIT, GRENZEN ZU DURCHBRECHEN.**
 
 *Der Weg beginnt bei dir.*
-
-</div>
